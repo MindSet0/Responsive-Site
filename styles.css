@@ -112,4 +112,13 @@ li {
     .testimonial h1 {
         font-size: 1.2em;
     }
+
+    .single-image h2 {
+        font-size: 1.5em;
+    }
+
+    .single-image img {
+        width: 70%;
+        height: auto;
+    }
 }
